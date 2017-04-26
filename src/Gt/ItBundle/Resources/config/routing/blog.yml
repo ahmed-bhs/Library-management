@@ -1,0 +1,30 @@
+admin_blog:
+    path:     /
+    defaults: { _controller: "GtItBundle:BlogAdmin:index" }
+
+admin_blog_show:
+    path:     /{id}/show
+    defaults: { _controller: "GtItBundle:BlogAdmin:show" }
+
+admin_blog_new:
+    path:     /new
+    defaults: { _controller: "GtItBundle:BlogAdmin:new" }
+
+admin_blog_create:
+    path:     /create
+    defaults: { _controller: "GtItBundle:BlogAdmin:create" }
+    methods:  POST
+
+admin_blog_edit:
+    path:     /{id}/edit
+    defaults: { _controller: "GtItBundle:BlogAdmin:edit" }
+
+admin_blog_update:
+    path:     /{id}/update
+    defaults: { _controller: "GtItBundle:BlogAdmin:update" }
+    methods:  [POST, PUT]
+
+admin_blog_delete:
+    path:     /{id}/delete
+    defaults: { _controller: "GtItBundle:BlogAdmin:delete" }
+    methods:  [POST, DELETE]

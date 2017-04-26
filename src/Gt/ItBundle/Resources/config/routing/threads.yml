@@ -1,0 +1,30 @@
+admin_threads:
+    path:     /
+    defaults: { _controller: "GtItBundle:Threads:index" }
+
+admin_threads_show:
+    path:     /{id}/show
+    defaults: { _controller: "GtItBundle:Threads:show" }
+
+admin_threads_new:
+    path:     /new
+    defaults: { _controller: "GtItBundle:Threads:new" }
+
+admin_threads_create:
+    path:     /create
+    defaults: { _controller: "GtItBundle:Threads:create" }
+    methods:  POST
+
+admin_threads_edit:
+    path:     /{id}/edit
+    defaults: { _controller: "GtItBundle:Threads:edit" }
+
+admin_threads_update:
+    path:     /{id}/update
+    defaults: { _controller: "GtItBundle:Threads:update" }
+    methods:  [POST, PUT]
+
+admin_threads_delete:
+    path:     /{id}/delete
+    defaults: { _controller: "GtItBundle:Threads:delete" }
+    methods:  [POST, DELETE]

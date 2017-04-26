@@ -1,0 +1,183 @@
+<?php
+
+namespace Gt\ItBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+use Doctrine\Common\Collections\ArrayCollection;
+use Symfony\Component\Validator\Constraints as Assert;
+use Vich\UploaderBundle\Mapping\Annotation as Vich;
+/**
+ * Emprunte
+ * @ORM\Table("Emprunte")
+ * @ORM\Entity(repositoryClass="Gt\ItBundle\Entity\EmprunteRepository")
+ */
+class Emprunte
+{
+    /**
+     * @ORM\Id
+     * @ORM\Column(type="integer")
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    protected $id;
+
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="dateem", type="string")
+     */
+    public $dateem;
+    /**
+     * @var date
+     *
+     * @ORM\Column(name="datere", type="string")
+     */
+    public $datere;
+
+    /**
+     * @var bool
+     *
+     * @ORM\Column(name="status", type="boolean")
+     */
+    public $status;
+
+  
+ 
+
+
+    /** 
+     * @ORM\ManyToOne(targetEntity="Utilisateurs\UtilisateursBundle\Entity\Utilisateurs", inversedBy="forname")
+     * @ORM\JoinColumn(nullable=false)
+     * 
+     */ 
+    private $edtudiant;
+    /**
+     * Get id
+     *
+     * @return integer
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set status
+     *
+     * @param boolean $status
+     *
+     * @return Emprunte
+     */
+    public function setStatus($status)
+    {
+        $this->status = $status;
+
+        return $this;
+    }
+
+    /**
+     * Get status
+     *
+     * @return boolean
+     */
+    public function getStatus()
+    {
+        return $this->status;
+    }
+
+    /**
+     * Set dateem
+     *
+     * @param \DateTime $dateem
+     *
+     * @return Emprunte
+     */
+    public function setDateem( )
+    {
+        $this->dateem = Date("Y-m-d");
+
+        return $this;
+    }
+
+    /**
+     * Get dateem
+     *
+     * @return \DateTime
+     */
+    public function getDateem()
+    {
+        return $this->dateem;
+    }
+
+    /**
+     * Set datere
+     *
+     * @param \DateTime $datere
+     *
+     * @return Emprunte
+     */
+    public function setDatere($datere)
+    {
+        $this->datere = $datere;
+
+        return $this;
+    }
+
+    /**
+     * Get datere
+     *
+     * @return \DateTime
+     */
+    public function getDatere()
+    {
+        return $this->datere;
+    }
+
+    /**
+     * Set book
+     *
+     * @param string $book
+     *
+     * @return Emprunte
+     */
+    public function setBook($book)
+    {
+        $this->book = $book;
+
+        return $this;
+    }
+
+    /**
+     * Get book
+     *
+     * @return string
+     */
+    public function getBook()
+    {
+        return $this->book;
+    }
+
+    /**
+     * Set edtudiant
+     *
+     * @param string $edtudiant
+     *
+     * @return Emprunte
+     */
+    public function setEdtudiant($edtudiant)
+    {
+        $this->edtudiant = $edtudiant;
+
+        return $this;
+    }
+
+    /**
+     * Get edtudiant
+     *
+     * @return string
+     */
+    public function getEdtudiant()
+    {
+        return $this->edtudiant;
+    }
+}

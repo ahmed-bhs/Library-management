@@ -1,0 +1,540 @@
+<!doctype html >
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+    <title>Page not found - The Disruptory</title>
+
+<link rel="stylesheet" href="https://www.thedisruptory.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.4.1" type="text/css" media="all" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="pingback" href="https://www.thedisruptory.com/xmlrpc.php" />
+
+    <link rel="icon" type="image/png" href="https://www.thedisruptory.com/wp-content/uploads/2016/11/O2.png">
+<!-- This site is optimized with the Yoast SEO plugin v3.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - The Disruptory" />
+<meta property="og:site_name" content="The Disruptory" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found - The Disruptory" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="The Disruptory &raquo; Feed" href="https://www.thedisruptory.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Disruptory &raquo; Comments Feed" href="https://www.thedisruptory.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.thedisruptory.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.4"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.thedisruptory.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mbpro-font-awesome-css'  href='https://www.thedisruptory.com/wp-content/plugins/maxbuttons/assets/libraries/font-awesome/css/font-awesome.min.css?ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//www.thedisruptory.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.thedisruptory.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//www.thedisruptory.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-cms-nav-css-css'  href='https://www.thedisruptory.com/wp-content/plugins/wpml-cms-nav/res/css/navigation.css?ver=1.4.19' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css'  href='https://www.thedisruptory.com/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.4.19' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css'  href='https://www.thedisruptory.com/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.4.19' type='text/css' media='screen' />
+<link rel='stylesheet' id='google-font-opensans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-ubuntu-css'  href='https://fonts.googleapis.com/css?family=Ubuntu%3A300%2C400%2C500%2C700%2C300italic%2C400italic%2C500italic%2C700italic&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Clatin-ext%2Ccyrillic&#038;ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-pt-sans-css'  href='https://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Clatin-ext%2Ccyrillic&#038;ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-oswald-css'  href='https://fonts.googleapis.com/css?family=Oswald%3A400%2C300%2C700&#038;subset=latin%2Clatin-ext&#038;ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-roboto-cond-css'  href='https://fonts.googleapis.com/css?family=Roboto+Condensed%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Cgreek%2Cvietnamese%2Clatin-ext%2Ccyrillic&#038;ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-vollkorn-css'  href='https://fonts.googleapis.com/css?family=Vollkorn%3A400italic%2C700italic%2C400%2C700&#038;ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='td-bootstrap-css'  href='https://www.thedisruptory.com/wp-content/themes/Newspaper/includes/wp_booster/external/bootstrap/td-bootstrap.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='https://www.thedisruptory.com/wp-content/themes/Newspaper-child/style.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='evcal_google_fonts-css'  href='//fonts.googleapis.com/css?family=Oswald%3A400%2C300%7COpen+Sans%3A400%2C300&#038;ver=4.5.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='evcal_cal_default-css'  href='https://www.thedisruptory.com/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='evo_font_icons-css'  href='https://www.thedisruptory.com/wp-content/plugins/eventON/assets/fonts/font-awesome.css?ver=4.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='evo_fc_styles-css'  href='https://www.thedisruptory.com/wp-content/plugins/eventon-full-cal/assets/fc_styles.css?ver=4.5.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mb_ajax = {"ajaxurl":"https:\/\/www.thedisruptory.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/maxbuttons/js/min/front.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wp-content\/themes\/Newspaper\/images\/no-img-post.png?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thedisruptory.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=4.11.1'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/facetwp/assets/js/src/query-string.js?ver=2.4.1'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/facetwp/includes/integrations/woocommerce/woocommerce.js?ver=2.4.1'></script>
+<link rel='https://api.w.org/' href='https://www.thedisruptory.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.thedisruptory.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.thedisruptory.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.4" />
+<meta name="generator" content="WooCommerce 2.6.2" />
+<meta name="generator" content="WPML ver:3.4.1 stt:1,4;" />
+
+<style type="text/css">																																	
+</style><!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    
+
+<!-- EventON Version -->
+<meta name="generator" content="EventON 2.3.10" />
+
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.thedisruptory.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://www.thedisruptory.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+<!-- JS generated by theme -->
+
+<script>
+    
+
+var td_blocks = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function td_block() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_cur_cat = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.is_ajax_running = false;
+    this.header_color = '';
+    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+}
+
+    
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+var td_ajax_url="https://www.thedisruptory.com/wp-admin/admin-ajax.php";
+var td_get_template_directory_uri="https://www.thedisruptory.com/wp-content/themes/Newspaper";
+var tds_snap_menu="smart_snap_always";
+var tds_header_style="8";
+var tds_mobile_swipe="";
+var td_search_url="https://www.thedisruptory.com/search/";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top="400";
+var tds_theme_color_site_wide="#4db2ec";
+</script>
+
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="error404 td-full-layout wpb-js-composer js-comp-ver-4.11.1 vc_responsive">
+
+
+
+<div id="outer-wrap">
+    <div id="td-mobile-nav" class="td-transition-content-and-menu">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">CLOSE</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-principal-en-container"><ul id="menu-principal-en" class=""><li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-no-down-arrow menu-item-550"><a href="https://www.thedisruptory.com/"><span class="menu_icon td-sp td-sp-ico-home"></span><span class="menu_hidden">Home</span></a></li>
+<li id="menu-item-6144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6144"><a href="https://www.thedisruptory.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-5760" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5760"><a href="https://www.thedisruptory.com/category/news/business-en/">Business</a></li>
+	<li id="menu-item-5761" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5761"><a href="https://www.thedisruptory.com/category/news/technologies-en/">Technologies</a></li>
+	<li id="menu-item-5762" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5762"><a href="https://www.thedisruptory.com/category/news/robots-en/">Robots</a></li>
+</ul>
+</li>
+<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="https://www.thedisruptory.com/directory/">Directory</a></li>
+<li id="menu-item-6145" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6145"><a href="https://www.thedisruptory.com/category/publications-en/">Publications</a>
+<ul class="sub-menu">
+	<li id="menu-item-5763" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5763"><a href="https://www.thedisruptory.com/category/publications-en/studies-en/">Studies</a></li>
+	<li id="menu-item-5764" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5764"><a href="https://www.thedisruptory.com/category/publications-en/books-en/">Books</a></li>
+	<li id="menu-item-5765" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5765"><a href="https://www.thedisruptory.com/category/publications-en/newsletter-en/">Newsletter</a></li>
+</ul>
+</li>
+<li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="https://www.thedisruptory.com/agenda/">Agenda</a></li>
+<li id="menu-item-9313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9313"><a href="https://www.thedisruptory.com/job-board/">Job board</a></li>
+<li id="menu-item-6177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6177"><a href="https://www.thedisruptory.com/challenges/">Challenges</a></li>
+<li id="menu-item-8767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8767"><a href="https://www.thedisruptory.com/partners/">Partners</a></li>
+</ul></div>    </div>
+</div>    <div id="inner-wrap" class="td-transition-content-and-menu">
+<div class="td-header-menu-wrap">
+    <div class="container">
+        <div class="row">
+            <div class="span6">
+                                            </div>
+
+            <div class="span6">
+                
+            <ul class="top-header-menu td_ul_login">
+                <li class="menu-item"><a class="td-login-modal-js menu-item" href="#login-form" data-effect="mpf-td-login-effect">Log In</a></li>
+                <li class="menu-item"><a class="menu-item" href="/my-account">Register</a><span class="td-sp td-sp-ico-login td_sp_login_ico_style"></span></li>
+            </ul>
+            <div  id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
+                <ul class="td-login-tabs">
+                    <li><a id="login-link" class="td_login_tab_focus">LOG IN</a></li>
+                </ul>
+
+
+
+                <div class="td-login-wrap">
+                    <div class="td_display_err"></div>
+
+                    <div id="td-login-div" class="">
+                        <div class="td-login-panel-title">Welcome! Login in to your account</div>
+                        <input class="td-login-input" type="text" name="login_email" id="login_email" placeholder="your username" value="" required>
+                        <input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" placeholder="your password" required>
+                        <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Log In">
+
+
+                        <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password?</a></div>
+
+
+                    </div>
+
+                    
+
+                     <div id="td-forgot-pass-div" class="td-dispaly-none">
+                        <div class="td-login-panel-title">Recover your password</div>
+                        <input class="td-login-input" type="text" name="forgot_email" id="forgot_email" placeholder="your email" value="" required>
+                        <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Pass">
+                    </div>
+
+
+
+
+                </div>
+            </div>
+                        </div>
+
+        </div>
+    </div>
+</div>
+
+
+<div class="td-header-style-8-wrapper td-menu-placeholder">
+    <div class="td-header-bg td-header-style-8 td-menu-background">
+        <div class="container td-menu-wrap td-logo-rec-wrap">
+            <div class="row-fluid td-menu-header">
+                <div class="span12" role="banner" itemscope="itemscope" itemtype="https://schema.org/Organization">
+                    <div class="td-style-8-content-wrapper">
+
+                        <div id="td-top-mobile-toggle">
+                            <ul class="sf-menu">
+                                <li>
+                                    <a href="#">
+                                        <span class="menu_icon td-sp td-sp-ico-menu"></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="td-style-8-logo-wrapper">
+                            <div class="td-head-style8-logo-desktop">                                    <a class="td-logo" itemprop="url" href="https://www.thedisruptory.com"><img src="https://www.thedisruptory.com/wp-content/uploads/2016/11/Logo-INNO-community-01-800x232.png" alt=""/></a>
+                                    <meta itemprop="name" content="The Disruptory">
+                                </div>                        </div>
+
+
+                        <div class="td-style-8-menu-wrapper">
+                            <div class="td-li-wrapper-menu">
+
+                                <div id="td-top-menu" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"  data-test="3">
+
+                                    <div class="menu-principal-en-container"><ul id="menu-principal-en-1" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-no-down-arrow td-menu-item td-normal-menu menu-item-550 slug-home"><a href="https://www.thedisruptory.com/"><span class="menu_icon td-sp td-sp-ico-home"></span><span class="menu_hidden">Home</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-6144 slug-news"><a href="https://www.thedisruptory.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-5760 slug-business"><a href="https://www.thedisruptory.com/category/news/business-en/">Business</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-5761 slug-technologies"><a href="https://www.thedisruptory.com/category/news/technologies-en/">Technologies</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-5762 slug-robots"><a href="https://www.thedisruptory.com/category/news/robots-en/">Robots</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-553 slug-directory"><a href="https://www.thedisruptory.com/directory/">Directory</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-6145 slug-publications"><a href="https://www.thedisruptory.com/category/publications-en/">Publications</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-5763 slug-studies"><a href="https://www.thedisruptory.com/category/publications-en/studies-en/">Studies</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-5764 slug-books"><a href="https://www.thedisruptory.com/category/publications-en/books-en/">Books</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-5765 slug-newsletter"><a href="https://www.thedisruptory.com/category/publications-en/newsletter-en/">Newsletter</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-554 slug-agenda"><a href="https://www.thedisruptory.com/agenda/">Agenda</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-9313 slug-job-board"><a href="https://www.thedisruptory.com/job-board/">Job board</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-6177 slug-challenges"><a href="https://www.thedisruptory.com/challenges/">Challenges</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-8767 slug-partners"><a href="https://www.thedisruptory.com/partners/">Partners</a></li>
+</ul></div>                                </div>
+								<ul id="lang-select"><li><span class='lang'>en</span></li><li><a href="https://www.thedisruptory.com/fr/" class="lang">fr</a></li></ul>
+                                <!-- Search -->
+                                <div id="td-top-search">
+                                    <div class="header-search-wrap">
+                                        <div class="dropdown header-search">
+                                            <a id="search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><span class="td-sp td-sp-ico-search"></span></a>
+                                            <div class="dropdown-menu" aria-labelledby="search-button">
+                                                <form role="search" method="get" class="td-search-form" action="https://www.thedisruptory.com/">
+                                                    <div class="td-head-form-search-wrap">
+                                                        <input class="needsclick" id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+                                                    </div>
+                                                </form>
+                                                <div id="td-aj-search"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="container td-page-wrap">
+            <div class="row">
+                <div class="span12">
+                    <div class="td-grid-wrap">
+                        <div class="container-fluid">
+                            <div class="row-fluid ">
+        
+    <div class="span12 column_container">
+        <div class="td-404-title">
+            404 Error - page not found        </div>
+
+        <div class="td-404-sub-title">
+            We're sorry, but the page you are looking for doesn't exist.        </div>
+
+        <div class="td-404-sub-sub-title">
+            You can go to the            <a href="https://www.thedisruptory.com">homepage</a>
+
+        </div>
+
+
+        <h4 class="block-title"><span>OUR LATEST POSTS</span></h4>
+
+        
+        <div class="td_mod_search td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+            <div class="thumb-wrap"><a href="https://www.thedisruptory.com/2016/12/artificial-intelligence-profit-common-good/" rel="bookmark" title="Artificial Intelligence, profit or the common good: It’s time to choose"><img width="150" height="84" itemprop="image" class="entry-thumb" src="https://www.thedisruptory.com/wp-content/uploads/2016/12/Featured-Image-150x84.png" alt="" title="Artificial Intelligence, profit or the common good: It’s time to choose"/></a></div>
+        <div class="item-details">
+        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://www.thedisruptory.com/2016/12/artificial-intelligence-profit-common-good/" rel="bookmark" title="Artificial Intelligence, profit or the common good: It’s time to choose">Artificial Intelligence, profit or the common good: It’s time to choose</a></h3>            <div class="meta-info">
+                <div itemscope="" itemtype="https://schema.org/WebPage" class="entry-crumbs"><a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com">Home</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/news/" title="View all posts in News">News</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/news/technologies-en/" title="View all posts in Technologies">Technologies</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span>Artificial Intelligence, profit or the common good: It’s time to choose</span></div>                <span class="td-block-author">by <a itemprop="author" href="https://www.thedisruptory.com/author/thedisruptory-team/">TheDisruptory Team</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-12-02T11:55:31+00:00" >Dec. 2, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+            <div class="td-post-text-excerpt">Science and scientists have dreams too. They are about quantum computing, space travel and genetic engineering. For several years, Artificial Intelligence (AI) has clearly...</div>
+        </div>
+
+        <meta itemprop="author" content = "TheDisruptory Team">        </div>
+
+        
+        <div class="td_mod_search td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+            <div class="thumb-wrap"><a href="https://www.thedisruptory.com/2016/11/president-obama-discusses-artificial-intelligence-media-lab-director-joi-ito/" rel="bookmark" title="President Obama discusses artificial intelligence with Media Lab Director Joi Ito"><img width="150" height="99" itemprop="image" class="entry-thumb" src="https://www.thedisruptory.com/wp-content/uploads/2016/11/Ito-Dadich-Obama-150x99.jpg" alt="" title="President Obama discusses artificial intelligence with Media Lab Director Joi Ito"/></a></div>
+        <div class="item-details">
+        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://www.thedisruptory.com/2016/11/president-obama-discusses-artificial-intelligence-media-lab-director-joi-ito/" rel="bookmark" title="President Obama discusses artificial intelligence with Media Lab Director Joi Ito">President Obama discusses artificial intelligence with Media Lab Director Joi Ito</a></h3>            <div class="meta-info">
+                <div itemscope="" itemtype="https://schema.org/WebPage" class="entry-crumbs"><a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com">Home</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/news/" title="View all posts in News">News</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/news/technologies-en/" title="View all posts in Technologies">Technologies</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span>President Obama discusses artificial intelligence with Media Lab Director Joi Ito</span></div>                <span class="td-block-author">by <a itemprop="author" href="https://www.thedisruptory.com/author/thedisruptory-team/">TheDisruptory Team</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-11-23T17:05:07+00:00" >Nov. 23, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+            <div class="td-post-text-excerpt">
+
+
+MIT Media Lab
+October 14, 2016
+
+
+
+
+
+
+
+
+
+
+
+When President Barack Obama agreed to guest-edit the November issue of WIRED, he selected MIT Media Lab Director Joi Ito...</div>
+        </div>
+
+        <meta itemprop="author" content = "TheDisruptory Team">        </div>
+
+        
+        <div class="td_mod_search td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+            <div class="thumb-wrap"><a href="https://www.thedisruptory.com/2016/11/robots-in-education/" rel="bookmark" title="Robots in Education: Why? What? How? And What For?"><img width="150" height="84" itemprop="image" class="entry-thumb" src="https://www.thedisruptory.com/wp-content/uploads/2016/11/Featured-Image-Forum-150x84.png" alt="" title="Robots in Education: Why? What? How? And What For?"/></a></div>
+        <div class="item-details">
+        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://www.thedisruptory.com/2016/11/robots-in-education/" rel="bookmark" title="Robots in Education: Why? What? How? And What For?">Robots in Education: Why? What? How? And What For?</a></h3>            <div class="meta-info">
+                <div itemscope="" itemtype="https://schema.org/WebPage" class="entry-crumbs"><a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com">Home</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/news/" title="View all posts in News">News</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/news/robots-en/" title="View all posts in Robots">Robots</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span>Robots in Education: Why? What? How? And What For?</span></div>                <span class="td-block-author">by <a itemprop="author" href="https://www.thedisruptory.com/author/thedisruptory-team/">TheDisruptory Team</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-11-14T14:46:16+00:00" >Nov. 14, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+            <div class="td-post-text-excerpt">Robotics is now considered as a General Purpose Technology, meaning it has the potential to drastically alter societies through its impact on pre-existing economic...</div>
+        </div>
+
+        <meta itemprop="author" content = "TheDisruptory Team">        </div>
+
+        
+        <div class="td_mod_search td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+            <div class="thumb-wrap"><a href="https://www.thedisruptory.com/2016/11/first-steps-towards-touch-robot/" rel="bookmark" title="First steps towards the touch robot"><img width="150" height="61" itemprop="image" class="entry-thumb" src="https://www.thedisruptory.com/wp-content/uploads/2016/10/Touch-150x61.jpg" alt="" title="First steps towards the touch robot"/></a></div>
+        <div class="item-details">
+        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://www.thedisruptory.com/2016/11/first-steps-towards-touch-robot/" rel="bookmark" title="First steps towards the touch robot">First steps towards the touch robot</a></h3>            <div class="meta-info">
+                <div itemscope="" itemtype="https://schema.org/WebPage" class="entry-crumbs"><a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com">Home</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/publications-en/" title="View all posts in Publications">Publications</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/publications-en/studies-en/" title="View all posts in Studies">Studies</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span>First steps towards the touch robot</span></div>                <span class="td-block-author">by <a itemprop="author" href="https://www.thedisruptory.com/author/thedisruptory-team/">TheDisruptory Team</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-11-02T17:25:27+00:00" >Nov. 2, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+            <div class="td-post-text-excerpt">
+A squeeze in the arm, a pat on the shoulder, or a slap in the face – touch is an important part of the...</div>
+        </div>
+
+        <meta itemprop="author" content = "TheDisruptory Team">        </div>
+
+        
+        <div class="td_mod_search td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+            <div class="thumb-wrap"><a href="https://www.thedisruptory.com/2016/10/vc-firm-daphni-announces-first-165-million-fund/" rel="bookmark" title="VC firm Daphni announces its first $165 million fund"><img width="150" height="100" itemprop="image" class="entry-thumb" src="https://www.thedisruptory.com/wp-content/uploads/2016/10/daphni-fullteam-150x100.jpg" alt="" title="VC firm Daphni announces its first $165 million fund"/></a></div>
+        <div class="item-details">
+        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://www.thedisruptory.com/2016/10/vc-firm-daphni-announces-first-165-million-fund/" rel="bookmark" title="VC firm Daphni announces its first $165 million fund">VC firm Daphni announces its first $165 million fund</a></h3>            <div class="meta-info">
+                <div itemscope="" itemtype="https://schema.org/WebPage" class="entry-crumbs"><a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com">Home</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/news/" title="View all posts in News">News</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/news/business-en/" title="View all posts in Business">Business</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span>VC firm Daphni announces its first $165 million fund</span></div>                <span class="td-block-author">by <a itemprop="author" href="https://www.thedisruptory.com/author/thedisruptory-team/">TheDisruptory Team</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-10-21T11:56:09+00:00" >Oct. 21, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+            <div class="td-post-text-excerpt">Paris-based VC firm Daphni is announcing its inaugural fund for seed and Series A investments. The team will manage a $165 million fund (€150...</div>
+        </div>
+
+        <meta itemprop="author" content = "TheDisruptory Team">        </div>
+
+        
+        <div class="td_mod_search td_mod_wrap " itemscope itemtype="https://schema.org/Article">
+            <div class="thumb-wrap"><a href="https://www.thedisruptory.com/2016/09/armenias-school-pupil-engineers-seek-reinvent-robot/" rel="bookmark" title="Armenia&#8217;s school pupil engineers seek to reinvent the robot"><img width="150" height="90" itemprop="image" class="entry-thumb" src="https://www.thedisruptory.com/wp-content/uploads/2016/09/2855-150x90.jpg" alt="" title="Armenia&#8217;s school pupil engineers seek to reinvent the robot"/></a></div>
+        <div class="item-details">
+        <h3 itemprop="name" class="entry-title"><a itemprop="url" href="https://www.thedisruptory.com/2016/09/armenias-school-pupil-engineers-seek-reinvent-robot/" rel="bookmark" title="Armenia&#8217;s school pupil engineers seek to reinvent the robot">Armenia&#8217;s school pupil engineers seek to reinvent the robot</a></h3>            <div class="meta-info">
+                <div itemscope="" itemtype="https://schema.org/WebPage" class="entry-crumbs"><a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com">Home</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/news/" title="View all posts in News">News</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <a class="entry-crumb" itemprop="breadcrumb" href="https://www.thedisruptory.com/category/news/technologies-en/" title="View all posts in Technologies">Technologies</a> <span class="td-sp td-sp-breadcrumb-arrow td-bread-sep"></span> <span>Armenia&#8217;s school pupil engineers seek to reinvent the robot</span></div>                <span class="td-block-author">by <a itemprop="author" href="https://www.thedisruptory.com/author/thedisruptory-team/">TheDisruptory Team</a> - </span><meta itemprop="interactionCount" content="UserComments:0"/>                <time  itemprop="dateCreated" class="entry-date updated" datetime="2016-09-27T10:23:07+00:00" >Sep. 27, 2016</time><meta itemprop="interactionCount" content="UserComments:0"/>                            </div>
+
+            <div class="td-post-text-excerpt">The little robot makes odd beeps as it spins around the room, detecting fires with its thermal sensors and extinguishing flames with a strong...</div>
+        </div>
+
+        <meta itemprop="author" content = "TheDisruptory Team">        </div>
+
+            </div>
+
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+
+<div class="td-sub-footer-wrap">
+    <div class="container ">
+        <div class="row">
+            <div class="span12">
+                <div class="td-grid-wrap">
+                    <div class="container-fluid">
+                        <div class="row-fluid ">
+                            <div class="span4 td-sub-footer-copy">
+                                &copy; TheDisruptory(TM) Powered by Innoecho                            </div>
+                            <div class="span8 td-sub-footer-menu">
+
+                                <div class="menu-footer-en-container"><ul id="menu-footer-en" class=""><li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-556"><a href="https://www.thedisruptory.com/about/">About</a></li>
+<li id="menu-item-558" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-558"><a href="https://www.thedisruptory.com/mentions-legales/">Legal information</a></li>
+<li id="menu-item-559" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-559"><a href="https://www.thedisruptory.com/contact-us/">Contact us</a></li>
+</ul></div>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+<!--/#inner-wrap-->
+</div>
+<!--/#outer-wrap-->
+
+<div class="td-sp td-scroll-up"></div>
+
+<script type='text/javascript'>	var user_ID = '0';	var template_url = 'https://www.thedisruptory.com/wp-content/themes/Newspaper';	var template_uri = 'https://www.thedisruptory.com/wp-content/themes/Newspaper-child';	var plugins_uri = 'https://www.thedisruptory.com/wp-content/plugins';	var ajaxurl = 'https://www.thedisruptory.com/wp-admin/admin-ajax.php';	current_localization = '';</script>		<script type="text/javascript">
+		/*<![CDATA[*/
+		var gmapstyles = '[{"featureType":"landscape.natural","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#e0efef"}]},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"hue":"#1900ff"},{"color":"#c0e8e8"}]},{"featureType":"landscape.man_made","elementType":"geometry.fill"},{"featureType":"road","elementType":"geometry","stylers":[{"lightness":100},{"visibility":"simplified"}]},{"featureType":"road","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"water","stylers":[{"color":"#7dcdcd"}]},{"featureType":"transit.line","elementType":"geometry","stylers":[{"visibility":"on"},{"lightness":700}]}]';
+		/* ]]> */
+		</script>		
+		
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2014
+        Version: 4.6.1 (rara)
+        Deploy mode: deploy
+        
+        uid: 5846397753ad3
+    -->
+
+    <link rel='stylesheet' id='eventon_dynamic_styles-css'  href='https://www.thedisruptory.com/wp-content/plugins/eventON/assets/css/eventon_dynamic_styles.css?ver=4.5.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/www.thedisruptory.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/disruptory/extra/js/global.js?ver=4.5.4'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/disruptory/extra/js/stupidtable.min.js?ver=4.5.4'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/disruptory/extra/js/jquery-ui-1.10.4.datepicker.js?ver=4.5.4'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/disruptory/extra/js/datepicker-fr.js?ver=4.5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var qpprFrontData = {"linkData":{"https:\/\/www.thedisruptory.com\/job-board\/employer\/":[0,0,""],"https:\/\/www.thedisruptory.com\/job-board\/candidate\/":[0,0,""],"https:\/\/www.thedisruptory.com\/fr\/emplois-stages\/employeur\/":[0,0,""],"https:\/\/www.thedisruptory.com\/fr\/emplois-stages\/candidate\/":[0,0,""]},"siteURL":"https:\/\/www.thedisruptory.com","siteURLq":"https:\/\/www.thedisruptory.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.1.8'></script>
+<script type='text/javascript' src='//www.thedisruptory.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wp-content\/themes\/Newspaper\/images\/no-img-post.png?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thedisruptory.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='//www.thedisruptory.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wp-content\/themes\/Newspaper\/images\/no-img-post.png?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.thedisruptory.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/themes/Newspaper/js/td_external.js?ver=4.6.1'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/themes/Newspaper/js/full_compact/site.js?ver=4.6.1'></script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-includes/js/wp-embed.min.js?ver=4.5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"https:\/\/www.thedisruptory.com\/","ajax_url":"https:\/\/www.thedisruptory.com\/wp-admin\/admin-ajax.php","url_type":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.thedisruptory.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=4.5.4'></script>
+<script>var FWP_HTTP = FWP_HTTP || {}; FWP_HTTP.lang = 'en';</script>
+<!-- JS generated by theme -->
+
+<script>
+    
+</script>
+
+
+            <script language="javascript">
+                td_ajax_count.td_get_views_counts_ajax("page","[15719, 15669, 15633, 15568, 15564, 15531]");
+            </script>
+            <script src="https://www.thedisruptory.com/wp-content/themes/Newspaper-child/js/main.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64697478-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

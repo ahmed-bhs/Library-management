@@ -1,0 +1,6 @@
+services:
+    app.form.profile:
+        class: Utilisateurs\UtilisateursBundle\Form\ProfileType
+        arguments: [%fos_user.model.user.class%]
+        tags:
+            - { name: form.type, alias: app_user_profile }

@@ -1,0 +1,68 @@
+<?php
+
+namespace Gt\ItBundle\Entity;
+
+use Doctrine\ORM\Mapping as ORM;
+
+/**
+ * Emp
+ *
+ * @ORM\Table()
+ * @ORM\Entity(repositoryClass="Gt\ItBundle\Entity\EmpRepository")
+ */
+class Emp
+{
+    /**
+     * @var integer
+     *
+     * @ORM\Column(name="id", type="integer")
+     * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
+     */
+    private $id;
+
+    /**
+     * @var string
+     *
+     * @ORM\Column(name="dateem", type="string")
+     */
+    public $dateem;
+    /**
+     * @var date
+     *
+     * @ORM\Column(name="datere", type="string")
+     */
+    public $datere;
+
+    /**
+     * @var bool
+     *
+     * @ORM\Column(name="status", type="boolean")
+     */
+    public $status;
+
+  
+
+   /** 
+     * @ORM\ManyToOne(targetEntity="Gt\ItBundle\Entity\Livres", inversedBy="inv")
+     * @ORM\JoinColumn(nullable=false)
+     * 
+     */ 
+    private $livre;
+    /** 
+     * @ORM\ManyToOne(targetEntity="Utilisateurs\UtilisateursBundle\Entity\Utilisateurs", inversedBy="forname")
+     * @ORM\JoinColumn(nullable=false)
+     * 
+     */ 
+    private $etudiant;
+    /**
+     * Get id
+     *
+     * @return integer
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+}
+

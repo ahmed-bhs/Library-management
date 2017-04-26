@@ -1,0 +1,75 @@
+{% extends '::base.html.twig' %}
+
+{% block body -%}
+    <h1>Comment</h1>
+
+
+
+        <table id="example" class="table table-striped table-bordered" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Blog_id</th>
+                   <th>User_id</th>
+                <th>Date</th>
+<th>Name</th>
+<th>Mail</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Id</th>
+                <th>Blog_id</th>
+                   <th>User_id</th>
+                <th>Date</th>
+<th>Name</th>
+<th>Mail</th>
+            </tr>
+        </tfoot>
+        <tbody>
+             <tr>
+               
+                <td>{{ entity.id }}</td>
+            </tr>
+            <tr>
+                
+                <td>{{ entity.blog_id }}</td>
+            </tr>
+            <tr>
+             
+                <td>{{ entity.user_id }}</td>
+            </tr>
+            <tr>
+                <th>Comment</th>
+                <td>{{ entity.comment }}</td>
+            </tr>
+            <tr>
+                
+                <td>{{ entity.date|date('Y-m-d H:i:s') }}</td>
+            </tr>
+            <tr>
+                
+                <td>{{ entity.name }}</td>
+            </tr>
+            <tr>
+                
+                <td>{{ entity.mail }}</td>
+            </tr>
+        </tbody>
+    </table>
+        
+
+        <ul class="record_actions">
+    <li>
+        <a href="{{ path('admin_comment', { 'item': entity.blog_id }) }}">
+            Back to the list
+        </a>
+    </li>
+    <li>
+        <a href="{{ path('admin_comment_edit', { 'id': entity.id,'item': entity.blog_id }) }}">
+            Edit
+        </a>
+    </li>
+    <li>{{ form(delete_form) }}</li>
+</ul>
+{% endblock %}

@@ -1,0 +1,29 @@
+gt_it_admin_threads:
+    resource: "@GtItBundle/Resources/config/routing/threads.yml"
+    prefix:   /admin/threads/{comment_id}
+
+gt_it_admin_tag:
+    resource: "@GtItBundle/Resources/config/routing/tag.yml"
+    prefix:   /admin/tag
+
+gt_it_admin_comment:
+    resource: "@GtItBundle/Resources/config/routing/comment.yml"
+    prefix:   /admin/comment/{item}
+
+
+
+gt_it_admin_blog:
+    resource: "@GtItBundle/Resources/config/routing/blog.yml"
+    prefix:   /admin/blog
+
+
+
+first:
+    pattern:  /
+    defaults: { _controller: GtItBundle:First:first }
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+{% extends "FOSUserBundle::layout.html.twig" %}
+
+{% block fos_user_content %}
+{% include "FOSUserBundle:Profile:show_content.html.twig" %}
+
+<img class="avatar" alt="avatar" src="{{('../uploads/images/product/'~user.image) }} "></pre>
+<br><br>
+{% endblock fos_user_content %}

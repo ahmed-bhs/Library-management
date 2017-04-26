@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Conference Pro Child
+ Theme URI:    http://www.showthemes.com/fudge-2-demo
+ Description:  Conference Pro Theme
+ Author:       Showthemes
+ Author URI:   http://www.showthemes.com
+ Template:     conference-pro
+ Version:      1.0.0
+*/
+
+#switcher .btn {box-shadow: none;}
+#switcher .btn_white {background: none;}
+.switcher__logo-mini {display: none !important;}
+#switcher .logo img{width: auto;}
+.registration__wrap .registration-integration{margin: 10px 0 50px 0;}
+.registration__wrap .registration-integration h2{text-align: center;font-size: 20px;margin-bottom: 15px;}

@@ -1,0 +1,40 @@
+{% extends '::base.html.twig' %}
+
+{% block body -%}
+    <h1>Threads list</h1>
+
+    <table class="records_list">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>User_id</th>
+                <th>Date</th>
+                <th>Name</th>
+                <th>Mail</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for entity in entities %}
+            <tr>
+                <td><a href="{{ path('admin_threads_show', { 'id': entity.id,'comment_id':entity.thread }) }}">{{ entity.id }}</a></td>
+                <td>{{ entity.userid }}</td>
+                <td>{% if entity.date %}{{ entity.date|date('Y-m-d H:i:s') }}{% endif %}</td>
+                <td>{{ entity.name }}</td>
+                <td>{{ entity.mail }}</td>
+                <td>
+                <ul>
+                    <li>
+                        <a href="{{ path('admin_threads_show', { 'id': entity.id,'comment_id':entity.thread }) }}">show</a>
+                    </li>
+                    <li>
+                        <a href="{{ path('admin_threads_edit', { 'id': entity.id,'comment_id':entity.thread }) }}">edit</a>
+                    </li>
+                </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    {% endblock %}

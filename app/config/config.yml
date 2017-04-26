@@ -1,0 +1,412 @@
+imports:
+    - { resource: parameters.yml }
+    - { resource: security.yml }
+
+
+framework:
+    #esi:             ~
+    translator:      { fallback: '%locale%' } # uncomment this line if you see this line commented
+    secret:          "%secret%"
+    router:
+        resource: "%kernel.root_dir%/config/routing.yml"
+        strict_requirements: ~
+    form:            ~
+    csrf_protection: ~
+    validation:      { enable_annotations: true }
+    templating:
+        engines: ['twig']
+        #assets_version: SomeVersionScheme
+    default_locale:  "%locale%"
+    trusted_hosts:   ~
+    trusted_proxies: ~
+    session:
+        # handler_id set to null will use default session handler from php.ini
+        handler_id:  ~
+    fragments:       ~
+    http_method_override: true
+   
+
+fos_user:
+    db_driver: orm
+    firewall_name: main
+    user_class: Utilisateurs\UtilisateursBundle\Entity\Utilisateurs
+    profile:
+        form:
+            type: app_user_profile
+
+
+# Twig Configuration
+twig:
+    debug:            "%kernel.debug%"
+    strict_variables: "%kernel.debug%"
+
+# Assetic Configuration
+assetic:
+    debug:          "%kernel.debug%"
+    use_controller: false
+    bundles:        [ ]
+    #java: /usr/bin/java
+    filters:
+        cssrewrite: ~
+        #closure:
+        #    jar: "%kernel.root_dir%/Resources/java/compiler.jar"
+        #yui_css:
+        #    jar: "%kernel.root_dir%/Resources/java/yuicompressor-2.4.7.jar"
+
+# Doctrine Configuration
+doctrine:
+    dbal:
+        driver:   "%database_driver%"
+        host:     "%database_host%"
+        port:     "%database_port%"
+        dbname:   "%database_name%"
+        user:     "%database_user%"
+        password: "%database_password%"
+        charset:  UTF8
+        # if using pdo_sqlite as your database driver, add the path in parameters.yml
+        # e.g. database_path: "%kernel.root_dir%/data/data.db3"
+        # path:     "%database_path%"
+
+    orm:
+        auto_generate_proxy_classes: "%kernel.debug%"
+        auto_mapping: true
+
+
+# Swiftmailer Configuration
+swiftmailer:
+    transport: "%mailer_transport%"
+    host:      "%mailer_host%"
+    username:  "%mailer_user%"
+    password:  "%mailer_password%"
+    spool:     { type: memory }
+services:
+  twig.extension.text:
+       class: Twig_Extensions_Extension_Text
+       tags:
+           - { name: twig.extension }
+
+
+knp_paginator:
+    page_range: 5                      # default page range used in pagination control
+    default_options:
+        page_name: page                # page query parameter name
+        sort_field_name: sort          # sort field query parameter name
+        sort_direction_name: direction # sort direction query parameter name
+        distinct: true                 # ensure distinct results, useful when ORM queries are using GROUP BY statements
+    template:
+        pagination: KnpPaginatorBundle:Pagination:twitter_bootstrap_v3_pagination.html.twig      # sliding pagination controls template
+        sortable: KnpPaginatorBundle:Pagination:sortable_link.html.twig # sort link template
+        
+liip_imagine :
+    resolvers :
+        default :
+            web_path : ~
+    filter_sets :
+        cache : ~
+       
+        o :
+            quality : 100
+            filters :
+                thumbnail  : { size : [738, 300], mode : outbound }
+        t :
+            quality : 100
+            filters :
+                thumbnail  : { size : [70, 70], mode : outbound }
+
+
+
+
+ivory_ck_editor:
+    default_config: simple_config
+
+   
+    configs:
+        simple_config:
+            toolbar: "neoToolbar_1" 
+        
+    toolbars:
+        configs:
+            neoToolbar_1:
+                - ['Source', '-','codesnippet','-' ,'NewPage', 'Preview', 'Print', '-', 'Templates']
+                - ['Cut', 'Copy', 'Paste', 'PasteText', 'PasteFromWord', '-', 'Undo', 'Redo']
+                - ['Find', 'Replace', '-', 'SelectAll', '-', 'Scayt']
+                - ['Form', 'Checkbox', 'Radio', 'TextField', 'Textarea', 'SelectField', 'Button', 'ImageButton', 'HiddenField']
+                - '/'
+                - ['Bold', 'Italic', 'Underline','codesnippet', 'Strike', 'Subscript', 'Superscript', '-', 'RemoveFormat']
+                - ['NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote', 'CreateDiv', '-', 'JustifyLeft', 'JustifyCenter', 'JustifyRight', 'JustifyBlock', '-', 'BidiLtr', 'BidiRtl']
+                - ['Link', 'Unlink', 'Anchor']
+                - [ 'oembed', 'wordcount', 'Image', 'FLash', 'Table', 'HorizontalRule', 'SpecialChar', 'Smiley', 'PageBreak', 'Iframe']
+                - '/'
+                - ['Styles', 'Format', 'Font', 'FontSize', 'TextColor', 'BGColor']
+                - ['Maximize', 'ShowBlocks']
+                - ['CodeSnippet','bbcode','BbCode','Divarea','Flash']
+             
+
+knp_menu:
+    # use "twig: false" to disable the Twig extension and the TwigRenderer
+    twig:
+        template: KnpMenuBundle::menu.html.twig
+    #  if true, enables the helper for PHP templates
+    templating: false
+    # the renderer to use, list is also available by default
+    default_renderer: twig
+
+
+
+
+easy_admin:
+
+    design:
+  
+
+        assets:
+            js: [ 'https://code.jquery.com/ui/1.12.1/jquery-ui.js', 'js/easyAdmin.js']
+            css: ['//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css']
+    entities:
+
+
+        User:
+            label: Les Etudiants
+            class: Utilisateurs\UtilisateursBundle\Entity\Utilisateurs
+          #  help: 'Global message displayed in all views'
+
+
+            list:
+                actions:
+                    - { name: 'show', label: '', icon: 'search' }
+                    - { name: 'edit', label: '', icon: 'edit' }
+                    - { name: 'delete', label: '', icon: 'trash' }                
+                sort: 'enabled'
+                fields:
+                    - { property: 'id' }
+                    - prenom
+                    - nom
+                    - class 
+                    - cin
+                    - { property: 'username', icon: 'user'}
+                    - email
+                    - enabled
+                    - { property: 'image', type: 'image', base_path: %app.path.product_images% }
+
+
+            # ...
+            show:
+                max_results: 5
+                fields:
+                    - { property: 'image', type: 'image', base_path: %app.path.product_images% }
+                  #  - lastEdited
+                    - nom
+                    - prenom
+                    - class 
+                    - ville
+                    - cin
+                    - username
+                    - email
+                    - enabled
+                    - lastLogin
+                    - roles
+
+            form:
+                fields: 
+                    - { property: 'imageFile', type: 'vich_image' }
+                   # - { property: 'lastEdited', type: 'Gt\ItBundle\Form\DatePickerType' }  
+                    - nom
+                    - prenom
+                    - class 
+                    - ville
+                    - cin
+                    - username
+                    - email
+                    - enabled
+                    
+                    - roles
+
+        Admin:
+            label: Administrateurs
+            class: Utilisateurs\UtilisateursBundle\Entity\Utilisateurs
+            help: 'Global message displayed in all views'
+            list:
+                actions:
+                    - { name: 'show', label: '', icon: 'search' }
+                    - { name: 'edit', label: '', icon: 'edit' }
+                    - { name: 'delete', label: '', icon: 'trash' }
+                dql_filter: 'a'
+                sort: 'enabled'
+                fields:
+                    - { property: 'id' }
+                    - nom
+                    - prenom
+                    - class 
+                    - ville
+                    - cin
+                    - username
+                    - email
+                    - enabled
+                    - lastLogin
+                    - roles
+                    - { property: 'image', type: 'image', base_path: %app.path.product_images% }
+
+
+            # ...
+            show:
+                max_results: 5
+                fields:
+                    - { property: 'image', type: 'image', base_path: %app.path.product_images% }
+                  #  - lastEdited
+                    - nom
+                    - prenom
+                    - class 
+                    - ville
+                    - cin
+                    - username
+                    - email
+                    - enabled
+                    - lastLogin
+                    - roles
+
+            form:
+                fields: 
+                    - { property: 'imageFile', type: 'vich_image' }
+                   # - { property: 'lastEdited', type: 'Gt\ItBundle\Form\DatePickerType' }  
+                    - nom
+                    - prenom
+                    - class 
+                    - ville
+                    - cin
+                    - username
+                    - email
+                    - enabled
+                   
+                    - roles
+   
+        Emp:
+            label: Empruntes
+            class: Gt\ItBundle\Entity\Emp
+           # disabled_actions: ['search']
+
+            list:
+                fields:
+                    - id
+                    - etudiant
+                    - livre 
+                    - datere
+                    - status
+            
+
+
+
+            # ...
+            show:
+                fields:
+                    - id
+                    - etudiant 
+                    - livre
+                    - { property:  'datere', format: 'j / M / Y'}
+                    - status
+        
+            form:
+                fields: 
+                  
+                    - { property: 'etudiant', type: 'easyadmin_autocomplete' }
+                    - { property: 'livre', type: 'easyadmin_autocomplete'   ,unique: true} 
+                    - datere
+                    - status
+                  
+   
+        Retard:
+
+            class: Gt\ItBundle\Entity\Emp
+            disabled_actions: ['new']
+            list:
+                disabled_actions: [ 'edit', 'new']
+                actions:
+                    - { name: 'show', label: '', icon: 'search' }
+                    - { name: 'edit', label: '', icon: 'edit' }
+                    - { name: 'delete', label: '', icon: 'trash' }
+                dql_filter: 'b'
+                fields:
+                    - id
+                    - etudiant
+                    - livre 
+                    - datere
+                    - status
+            
+
+
+
+            # ...
+            show:
+                fields:
+                    - id
+                    - etudiant 
+                    - livre
+                    - { property:  'datere', format: 'j / M / Y'}
+                    - status
+        
+            form:
+                fields: 
+                    - { property: 'etudiant', type: 'easyadmin_autocomplete' }
+                    - { property: 'livre', type: 'easyadmin_autocomplete'   ,unique: true} 
+                    - datere
+                    - status
+        Livre:
+            label: Les Livres
+            class: Gt\ItBundle\Entity\Livres
+            help: 'The list view overrides the global help message'
+
+            list:
+
+                fields:
+                    - id
+                    - inv
+                    - titre 
+                    - auteur
+                    - status
+                    - cote
+                    - { property: 'image', type: 'image', base_path: '%app.path.product_images%' }
+                    - features
+
+
+            # ...
+            show:
+                fields:
+                    - id
+                    - inv
+                    - titre 
+                    - auteur
+                    - status
+                    - cote
+                    - { property: 'image', type: 'image', base_path: '%app.path.product_images%' }
+                    - { property: 'features', type: 'raw' }
+                   
+            form:
+                fields: 
+                    - inv
+                    - titre 
+                    - auteur
+                    - status
+                    - cote
+                    - { property: 'imageFile', type: 'vich_image', base_path: '%app.path.product_images%' }
+                    - features
+      
+    design:
+        brand_color: '#1ABC9C'
+        title : aaa
+        assets:
+            favicon:
+                path: '/assets/backend/favicon.xxx'
+                mime_type: 'image/xxx'
+
+parameters:
+    app.path.product_images: /uploads/images/product   # ...
+vich_uploader:
+    db_driver: orm
+    mappings:
+        product_images:
+            uri_prefix:         %app.path.product_images%
+            upload_destination: %kernel.root_dir%/../web/uploads/images/product
+            inject_on_load:     false
+            delete_on_update:   true
+            delete_on_remove:   true
+sc_datetimepicker:
+    picker: ~
