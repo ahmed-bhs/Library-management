@@ -1,6 +1,6 @@
 <h1>Symfony Library management </h1>
 
-<h2>open you'r termnial , then</h3> </br>
+
 1)php app/console doctrine:database:create</br>
 2)php app/console doctrine:schema:update --force</br>
 3)php app/console fos:user:create </br>
