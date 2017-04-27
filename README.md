@@ -1,6 +1,7 @@
 <h1>Symfony Library management </h1>
 
 
+To install, Open you'r termnial, then : </br>
 1)php app/console doctrine:database:create</br>
 2)php app/console doctrine:schema:update --force</br>
 3)php app/console fos:user:create </br>
