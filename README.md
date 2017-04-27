@@ -24,10 +24,11 @@ TODO: If you want to made some improvement ;) (the project is based on easy admi
 - verify all validators
 - import / export , you can use goodby csv bundle ,or u'r one implementation
 - correct search bar (filtration systém)
-- add a new dashbord (with acuill) with some stasitcs
+- add a new dashbord (welcome pgae) with some stasitcs and charts plugins
 - update fos user bundle and add some javascript stuff
 - Activate APC - Accelerator PHP or other accelerator
 - improve cache management system
+- improve orm transaction
 
 good luck :)
  
