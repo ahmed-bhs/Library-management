@@ -16,7 +16,7 @@ To install, Open you'r termnial, then : </br>
 7)open : http://127.0.0.0:8000/login</br>
 8)open : http://127.0.0.0:8000/ab (Administered space)</br>
  <h3>Some screenshots : </h3>
- <img src="http://i.imgur.com/VwhCSsE.png"/>
+ <img src="http://i.imgur.com/sMiSZ3J.png"/>
  <img src="http://i.imgur.com/GhosroI.png" />
 
 TODO: If you want to made some improvement ;) (the project is based on <a href="https://github.com/javiereguiluz/EasyAdminBundle"> easy admin bundle</a> , you can read doc from github</br>
