@@ -17,15 +17,15 @@ To install, Open you'r termnial, then : </br>
 8)open : http://127.0.0.0:8000/ab (Administered space)</br>
  
 
-TODO: If you want to made some improvement ;) (the project is based on easy admin bundle , you can read doc from github</br>
+TODO: If you want to made some improvement ;) (the project is based on <a href="https://github.com/javiereguiluz/EasyAdminBundle"> easy admin bundle</a> , you can read doc from github</br>
 
 
 - change route "/ab" to "/admin"
 - verify all validators
-- import / export , you can use goodby csv bundle ,or u'r one implementation
+- import / export , you can use <a href="https://github.com/goodby/csv" > goodby csv bundle </a> ,or u'r one implementation
 - correct search bar (filtration systém)
-- add a new dashbord (welcome page) with some stasitcs and charts plugins(exmple: ObHighchartsBundle )
-- update fos user bundle and add some javascript stuff
+- add a new dashbord (welcome page) with some stasitcs and charts plugins(exmple: <a href="https://github.com/marcaube/ObHighchartsBundle" >ObHighchartsBundle</a> )
+- update <a href="https://github.com/FriendsOfSymfony/FOSUserBundle" >fos user bundle</a> and add some javascript stuff
 - Activate APC - Accelerator PHP or other accelerator
 - improve cache management system
 - improve orm transaction
