@@ -24,7 +24,7 @@ TODO: If you want to made some improvement ;) (the project is based on easy admi
 - verify all validators
 - import / export , you can use goodby csv bundle ,or u'r one implementation
 - correct search bar (filtration systém)
-- add a new dashbord (welcome pgae) with some stasitcs and charts plugins
+- add a new dashbord (welcome page) with some stasitcs and charts plugins(exmple: ObHighchartsBundle )
 - update fos user bundle and add some javascript stuff
 - Activate APC - Accelerator PHP or other accelerator
 - improve cache management system
